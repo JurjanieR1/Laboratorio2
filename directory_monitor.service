@@ -1,0 +1,11 @@
+[Unit]
+Description=Servicio de Monitoreo de Cambios en Directorios
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /home/l/Documentos/lab2/servicios-01.sh
+WorkingDirectory=/home/l/Documentos/lab2/
+
+[Install]
+WantedBy=multi-user.target

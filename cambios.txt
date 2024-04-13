@@ -1,0 +1,13 @@
+2024-04-12 13:13:22 /home/l/Documentos/lab2/ MODIFY prueba.txt
+2024-04-12 13:13:22 /home/l/Documentos/lab2/ MODIFY prueba.txt
+2024-04-12 13:13:37 /home/l/Documentos/lab2/ MODIFY log.txt
+2024-04-12 13:13:37 /home/l/Documentos/lab2/ MODIFY log.txt
+2024-04-12 13:28:30 /home/l/Documentos/lab2/ CREATE hola.txt
+2024-04-12 13:29:09 /home/l/Documentos/lab2/ CREATE nuevo.c
+2024-04-12 13:33:02 /home/l/Documentos/lab2/ CREATE lab2.zip
+2024-04-12 13:33:02 /home/l/Documentos/lab2/ DELETE lab2.zip
+2024-04-12 13:33:02 /home/l/Documentos/lab2/ CREATE zicUF2zM
+2024-04-12 13:33:02 /home/l/Documentos/lab2/ MODIFY zicUF2zM
+2024-04-12 13:33:02 /home/l/Documentos/lab2/ MODIFY zicUF2zM
+2024-04-12 13:33:02 /home/l/Documentos/lab2/ MODIFY zicUF2zM
+2024-04-12 13:33:02 /home/l/Documentos/lab2/ MODIFY zicUF2zM
